@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite DB
+*.sqlite3
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# C extensions
+*.so
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Mypy cache
+.mypy_cache/
+
+# Pytest cache
+.pytest_cache/
+
+# Ruff cache
+.ruff_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# FastAPI / Uvicorn
+*.pid
+
+# Temporary files
+*.tmp
+*.bak
+
+# Node (if frontend exists later)
+node_modules/
